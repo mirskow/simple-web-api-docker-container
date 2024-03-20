@@ -1,2 +1,7 @@
-# simple-web-api-docker-container-
+# simple-web-api-docker-container
 Реализация простого веб-приложения и его запуск при помощи контейнера докер.
+
+Скачать образ можно при помощи следующей команды:
+```
+docker pull mirskow/app:latest
+```
